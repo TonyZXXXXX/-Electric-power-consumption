@@ -1,0 +1,2 @@
+file_path <-(filename="C:/Users/Yuhao/Desktop/household_power_consumption.txt")
+data <- read.table(file_path, header = TRUE)
